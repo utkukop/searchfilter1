@@ -1,1 +1,1 @@
-# searchfilter1
+# Uygulama bilgileri
